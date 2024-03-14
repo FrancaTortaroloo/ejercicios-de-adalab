@@ -1,1 +1,1 @@
-Ejercicios hechos por mi en la clase invertida de Adalab
+Ejercicios hechos en la clase de Pair Programming
